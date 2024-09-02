@@ -1,7 +1,7 @@
 ### Olá, eu sou o Arthur Luziano!
 
-- 🤓 Cursando Ciência da Computação (3° Semestre)
-- 📖 Estudando JavaScript
+- 🤓 Cursando Ciência da Computação (4° Semestre)
+- 📖 Estudando React
 - 📧 Contato: luzianoarthur@gmail.com
 
 [![Arthur Luziano's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurluziano&show_icons=true&theme=tokyonight)](https://github.com/arthurluziano)
